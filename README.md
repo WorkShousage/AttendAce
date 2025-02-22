@@ -35,4 +35,4 @@ AttendACe is a smart and efficient attendance system designed for **schools, col
 - **Virtual Environment:** A Python virtual environment is used to avoid dependency conflicts.  
 - **Requirements Management:** Dependencies are listed in `requirements.txt` for easy setup.  
 
-AttendACe provides a **fast, secure, and fraud-resistant** solution for attendance tracking, eliminating the need for manual registers or RFID systems. 🚀
+AttendACe provides a **fast, secure, and fraud-resistant** solution for attendance tracking, eliminating the need for manual registers or RFID systems. 
